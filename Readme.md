@@ -17,10 +17,11 @@ Aviables on all distributions.
 ## Isntalation
 1. Install Gimp script
 
-'''sh
-cp sharpen.scm ~/.gimp-2.8/scripts/
-'''
 
-'''sh
-    cp pdf-sharpen.sh ~/bin/
-'''
+    cp sharpen.scm ~/.gimp-2.8/scripts/
+
+2. Install the script in your local folder.
+
+    mkdir -p ~/bin
+    cp pdf-sharpen.sh ~/bin
+
