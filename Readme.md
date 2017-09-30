@@ -9,7 +9,7 @@ My solution was use software installed on my computer, ImageMagic, Gimp and Ghos
 ## Dependencies
 You may need to get installed:
  - ZSH
- - ImageMagic ImageMagick 6.8.8-1
+ - ImageMagick 6.8.8-1
  - Gimp 2.8
  - Ghostscript 9.15
 Aviables on all distributions.
